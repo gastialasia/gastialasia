@@ -1,9 +1,4 @@
 # Gastón Alasia
-### Ingeniería Informática (ITBA)
-
-* Apasionado por la tecnología y como esta mejora nuestras vidas
-* Interesado por la automatización de procesos, producción de APIs y cloud computing
-* Proactivo y constantemente en busqueda de la autosuperación
 
 ## Experiencia
 * Lenguajes de programación: Assembly, C, Java, Ruby, Python, Javascript, Kotlin
