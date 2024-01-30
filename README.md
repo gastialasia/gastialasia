@@ -1,5 +1,5 @@
-#Gastón Alasia
-##Ingeniería Informática (ITBA)
+# Gastón Alasia
+## Ingeniería Informática (ITBA)
 
 * Apasionado por la tecnología y como esta mejora nuestras vidas
 * Experiencia en proyectos utilizando Assembly, C, Java, NodeJS, Express, PostgresSQL, MongoDB, React, Swift y Kotlin
